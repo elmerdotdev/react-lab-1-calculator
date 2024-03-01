@@ -2,7 +2,7 @@
 
 Demo: [https://drive.google.com/file/d/13xo6yGtAjnMX2DQUTR9voErXZKLcT5f7/view?usp=sharing]
 
-**Goal:** Create a addition calculator app using props and states. Please see the demo.
+**Goal:** Create an addition calculator app using props and states. Please see the demo.
 
 **Optional:** You don't need to add the decimal(.) button but you can if you want an extra challenge. Styling is also optional.
 
